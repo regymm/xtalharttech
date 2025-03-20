@@ -5,7 +5,7 @@ description_markdown: >-
 description_markdown_full: |
   7010 too small for Openwifi? How about replace it with the pin-compatible 7020? Currently in proof-of-concept stage. Will be a blow if this can really work. <br/>
   Coming soon ... 
-price: ' 199.00'
+price: ' 1??.00'
 stock: 0
 styles:
 
