@@ -10,7 +10,7 @@ description_markdown_full: |
   **Specifications**: AD9361 70 MHz - 6 GHz, 1RX/1TX, bandwidth <200 kHz - 40 MHz (replacing 200 Ohm resistors on PYNQ-Z1 PMOD to 0 Ohm can enable the maximum bandwidth of 56 MHz). LVDS interface routed via two short HDMI cables. <br/>
   **Items included**: PYNQSDR HAT itself, HDMI cable x2, PMOD bridge x2, Antenna x2, SMA adapter x2. See picture below. <i>PYNQ-Z1 itself is NOT included!</i><br/>
   **Connection**: The 3 SMA connectors(2 used, one spare) on HAT are SMA-P(ordinary standard), the adapters are SMA-J to RP-SMA-P, the antennae are RP-SMA-J(WiFi standard). See picture below. <br/>
-  **Setup guide and software support**: <a href="https://github.com/regymm/PYNQSDR">Schematics, PCBs, Start Guides and more</a> / <a href="http://149.28.136.195/">ready-to-use SD card openwifi/PlutoSDR image</a> . <br/>
+  **Setup guide and software support**: <a href="https://github.com/regymm/PYNQSDR">Schematics, PCBs, Start Guides and more</a> / <a href="https://drive.google.com/drive/folders/1i_VogEwf81xpMHjC2Ka72Fs2wmAIC12y?usp=sharing">ready-to-use SD card openwifi/PlutoSDR image</a> . <br/>
   ![](/xtalharttech/images/products/pynqsdr_hat/1.jpg)
   ![](/xtalharttech/images/products/pynqsdr_hat/2.jpg)
 
