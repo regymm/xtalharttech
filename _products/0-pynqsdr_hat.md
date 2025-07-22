@@ -3,7 +3,7 @@ name: PYNQSDR HAT
 description_markdown: >-
   The add-on that brings openwifi to PYNQ-Z1 with ultra low cost
 description_markdown_full: |
-  Now prelaunch on [Crowd Supply](TBD)! <br/>
+  Now prelaunch on [Crowd Supply](https://www.crowdsupply.com/xtal-hart-tech/pynqsdr-hat)! <br/>
   **Functions**: PlutoSDR firmware, iio-oscilloscope, GQRX, dump1090, GNURadio, openwifi firmware, etc. <br/>
   **Example usage**: Do whatever you can do with the [PlutoSDR](https://github.com/regymm/plutosdr-fw) firmware! Listen to the FM radio, catch flight ADS-B by dump1090, simulate GPS signals, run custom RF communication with GNURadio. Run [openwifi](https://github.com/open-sdr/openwifi) -- the full-stack IEEE802.11/Wi-Fi design based on SDR, run your hotspot with AD936X, capturing packets, go scientific. <br/>
   **Why this**: On usual ZYNQ + AD936X combinations, the two chips are tightly coupled on one board, making it hard if even possible to utilize the ZYNQ for general FPGA development. But here, with the extension removable, you still have a fully-functional PYNQ-Z1 ready for anything. So it's especially suitable for FPGA person who want to have a taste of SDR(like me), or vise versa. And, **this is probably the lowest cost openwifi-capable SDR!** <br/>
