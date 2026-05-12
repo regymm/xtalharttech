@@ -29,7 +29,7 @@ description_markdown_full: |
   ![](/xtalharttech/images/products/muzy/muzy4-2.png)
   ![](/xtalharttech/images/products/muzy/muzy4-3.png)
 
-price: '45.00'
+price: '49.00'
 stock: 0
 styles:
   - image: /images/products/muzy/muzy4-1.png
